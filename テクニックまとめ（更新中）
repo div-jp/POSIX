@@ -2,7 +2,6 @@
 POSIX原理主義で採用すべき日時形式
 http://myfuturesightforpast.blogspot.jp/2016/12/how-to-get-date-time-time-zone-in-posix.html
 
-
 POSIX原理主義で指定回数ループする方法
 http://myfuturesightforpast.blogspot.jp/2016/10/how-to-loop-n-times-in-posix-shell.html
 
@@ -35,9 +34,6 @@ http://myfuturesightforpast.blogspot.jp/2016/12/what-is-posixism-posix-fundament
 
 シェルスクリプトで，コマンドのオプションが有効かどうかの判定方法
 http://myfuturesightforpast.blogspot.jp/2016/10/how-to-check-if-command-option-is.html
-
-POSIX原理主義で指定回数ループする方法
-http://myfuturesightforpast.blogspot.jp/2016/10/how-to-loop-n-times-in-posix-shell.html
 
 シェルスクリプトなどで現在のユーザーがルートユーザー（root権限，管理者権限，スーパーユーザー，super user）であるかを判別する方法
 http://myfuturesightforpast.blogspot.jp/2016/08/how-to-check-root-user-in-shell-script.html
