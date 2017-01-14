@@ -162,3 +162,18 @@ write - write to another user
 xargs - construct argument lists and invoke utility
 yacc - yet another compiler compiler (DEVELOPMENT)
 zcat - expand and concatenate data
+break
+colon
+continue
+dot
+eval
+exec
+exit
+export
+readonly
+return
+set
+shift
+times
+trap
+unset
