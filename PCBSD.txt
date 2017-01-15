@@ -1,5 +1,6 @@
 PCBSD10.3-RELEASE-03-31-2016-x64-DVD
 Vusualbox
+admin NG
 alias OK
 ar OK
 asa OK
@@ -13,6 +14,7 @@ c99 OK
 cal OK
 cat OK
 cd OK
+cflow NG
 chgrp OK
 chmod OK
 chown OK
@@ -26,8 +28,10 @@ crontab OK
 csplit OK
 ctags OK
 cut OK
+cxref NG
 date OK
 dd OK
+delta NG
 df OK
 diff OK
 dirname OK
@@ -44,8 +48,10 @@ fg OK
 file OK
 find OK
 fold OK
+fort77 NG
 fuser OK
 gencat OK
+get NG
 getconf OK
 getopts OK
 grep OK
@@ -62,6 +68,7 @@ lex OK
 link OK
 ln OK
 locale OK
+localedef NG
 logger OK
 logname OK
 lp OK
@@ -87,12 +94,27 @@ pathchk OK
 pax OK
 pr OK
 printf OK
+prs NG
 ps OK
 pwd OK
+qalter NG
+qdel NG
+qhold NG
+qmove NG
+qmsg NG
+qrerun NG
+qrls NG
+qselect NG
+qsig NG
+qstat NG
+qsub NG
 read OK
 renice OK
 rm OK
+rmdel NG
 rmdir OK
+sact NG
+sccs NG
 sed OK
 sh OK
 sleep OK
@@ -120,10 +142,15 @@ unalias OK
 uname OK
 uncompress OK
 unexpand OK
+unget NG
 uniq OK
 unlink OK
+uucp NG
 uudecode OK
 uuencode OK
+uustat NG
+uux NG
+val NG
 vi OK
 wait OK
 wc OK
@@ -134,6 +161,7 @@ xargs OK
 yacc OK
 zcat OK
 break OK
+colon NG
 continue OK
 dot OK
 eval OK
