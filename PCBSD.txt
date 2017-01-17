@@ -161,7 +161,7 @@ xargs OK
 yacc OK
 zcat OK
 break OK
-colon NG
+colon OK
 continue OK
 dot OK
 eval OK
