@@ -1,5 +1,5 @@
 CentOS-7-x86_64-DVD-1611
-Visualbox desktopでインストール
+Visualbox Gnome desktopでインストール
 admin NG
 alias OK
 ar OK
@@ -161,9 +161,9 @@ xargs OK
 yacc NG
 zcat OK
 break OK
-colon NG
+colon OK
 continue OK
-dot NG
+dot OK
 eval OK
 exec OK
 exit OK
