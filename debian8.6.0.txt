@@ -161,9 +161,9 @@ xargs OK
 yacc NG
 zcat OK
 break OK
-colon NG
+colon OK
 continue OK
-dot NG
+dot OK
 eval OK
 exec OK
 exit OK
