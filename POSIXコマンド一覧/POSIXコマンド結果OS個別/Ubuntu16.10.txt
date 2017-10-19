@@ -1,5 +1,5 @@
-VirtualBoxでubuntu16.10
-コマンド有無リストを出力
+ubuntu-16.10-desktop-amd64
+VirtualBoxでコマンド有無リストを出力
 admin NG
 alias OK
 ar OK
